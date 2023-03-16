@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mtsdi"]
+	path = mtsdi
+	url = https://github.com/wjunger/mtsdi
+	shallow = true
+	registered = true
+[submodule "pgam"]
+	path = pgam
+	url = https://github.com/wjunger/pgam
+	shallow = true
+	registered = true

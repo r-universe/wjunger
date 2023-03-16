@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mtsdi",
+    "oncran": true
+  },
+  {
+    "package": "pgam",
+    "oncran": true
+  }
+]
