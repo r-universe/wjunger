@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "mtsdi"]
 	path = mtsdi
-	url = https://github.com/wjunger/mtsdi
+	url = https://github.com/cran/mtsdi
 [submodule "pgam"]
 	path = pgam
-	url = https://github.com/wjunger/pgam
+	url = https://github.com/cran/pgam
